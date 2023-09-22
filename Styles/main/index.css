@@ -1,0 +1,44 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  header {
+    width: 100vw;
+    height: 100vh;
+    background-color: #4E1D4E;
+  }
+  .portada {
+    width: 30px;
+    height: 50px;
+  }
+  .barra {
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .menu {
+    width: 20px;
+    height: 15px;
+    margin-right: 15px;
+  }
+  h1 {
+    margin-top: 50px;
+  }
+  .cabecera {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+  }
+  .cabecera1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ECB22E;
+    font-size: 40px;
+  }
+}/*# sourceMappingURL=index.css.map */
